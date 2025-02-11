@@ -1,0 +1,19 @@
+{
+    "name": "andres/crud_generator",
+    "description": "A simple package that helps you gernerate crud based on the existing database tables for mysql",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Andres\\CrudGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Agaba Andre",
+            "email": "agabaandre@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
